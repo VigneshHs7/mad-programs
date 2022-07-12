@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Records>
+    <City id="1">
+        <City-Name>BANGALORE</City-Name>
+        <Longitude>8</Longitude>
+        <Latitude>13</Latitude>
+        <Temparature>30</Temparature>
+        <Humidity>90%</Humidity>
+    </City>
+    <City id="2">
+        <City-Name>MANGALORE</City-Name>
+        <Longitude>8</Longitude>
+        <Latitude>13</Latitude>
+        <Temparature>30</Temparature>
+        <Humidity>90%</Humidity>
+    </City>
+</Records>
